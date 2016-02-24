@@ -6,14 +6,28 @@
 
 # The below skeleton is optional.  You can use it or you can write the script with an approach of your choice.
 
-
 import csv
 
-  def read_data(data):
-   # COMPLETE THIS FUNCTION
+def read_data(data):
+	f = open(data,'r')
+	reader = csv.reader(f)
+	league = []
+	count = 0
+	for row in reader:
+		if count !=0:
+			team = row
+			league.append(team)
+		count +=1
+	return league
 
-  def get_min_score_difference(self, parsed_data):
-    # COMPLETE THIS FUNCTION
 
-  def get_team(self, index_value, parsed_data):
-    # COMPLETE THIS FUNCTION
+def get_min_score_difference(parsed_data):
+	minTeam = ""
+	minDiff= 1000
+	for team in parsed_data:
+		if (int(team[-3]) - int(team[-2])) < minDiff:
+			minTeam = team[0]
+			minDiff = int(team[-3])-int(team[-2])
+	return minTeam
+
+#Go Gunners!
