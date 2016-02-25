@@ -32,7 +32,6 @@ def degrees_freq(parsed_data):
 		items = i[1].split(' ')
 		for j in items:
 			j = re.sub('\.','',j)
-			print j
 			if j in d:
 				d[j] += 1
 			elif j not in d and len(j)>1:
