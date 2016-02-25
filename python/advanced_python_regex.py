@@ -59,6 +59,5 @@ def title_freq(parsed_data):
 	pattern = r'\s\w{2}\s'
 	for x in full_titles:
 		match = re.search(pattern,x)
-		print match.start()
 		titles.append(x[:match.start()])
 	return find_frequencies(titles)
