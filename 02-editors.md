@@ -63,10 +63,10 @@ What graphical editor will you use? How did you make your decision? What are som
 
 I will use Sublime since it was recommended to me by a few people. I also like the fact that it has a quicker learning curve than the others. The auto-completion of words and the multi-edit ability are two interesting features that I've dsicovered so far. 
 
-Alt + F3 : will start a find and replace  of all instances of the word that the curser is hovering above
-Ctrl + / : will comment/uncomment current line
-Ctrl + ]/[ : will indent/unindent the current line
-Ctrl + mouse click : will start a multi edit at all places where the mouse is clicked
+Alt + F3 : will start a find and replace  of all instances of the word that the curser is hovering above  
+Ctrl + / : will comment/uncomment current line  
+Ctrl + ]/[ : will indent/unindent the current line  
+Ctrl + mouse click : will start a multi edit at all places where the mouse is clicked  
 Ctrl + KK : will delete the current line from the cursor on
 
 Sublime can be customized using the settings in the toolbars and by applying different settings packages.
