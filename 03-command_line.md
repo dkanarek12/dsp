@@ -12,8 +12,8 @@ these in a couple of hours.
 
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do, focused on things that are new, interesting, or otherwise worth remembering.
 
-pwd - prints the current directory path
-ls - lists the files/directories located in the current directory
+pwd - prints the current directory path /n
+ls - lists the files/directories located in the current directory \n
 cd - changes the current directory
 pushd/popd - adds/removes a directory to a queue allowing the user to quickly swithc between working directories
 man - displays a help manual
