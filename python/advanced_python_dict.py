@@ -1,7 +1,7 @@
 from advanced_python_regex import *
 
 def sort_names(names):
-	return sorted(names, key=lambda t: t[-1])
+	return sorted(names, key=lambda t: t[0])
 
 def convert_title(title):
 	pattern = r'\s\w{2}\s'
@@ -66,3 +66,5 @@ def create_prof_dict(parsed_data):
 	for name in full_names:
 		print str(name) + ' : ' + str(d[name])
 	return d
+
+create_prof_dict(read_data('faculty.csv'))
