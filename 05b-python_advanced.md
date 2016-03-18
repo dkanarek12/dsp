@@ -101,9 +101,9 @@ The emails.csv file you create should be added and committed to your forked repo
 
 Your file, emails.csv, will look like this:
 ```
-bellamys@mail.med.upenn.edu
-warren@upenn.edu
-bryanma@upenn.edu
+bellamys@mail.med.upenn.edu  
+warren@upenn.edu  
+bryanma@upenn.edu  
 ```
 
 ---
@@ -125,9 +125,9 @@ faculty_dict = { 'Ellenberg': [\
 ```
 Print the first 3 key and value pairs of the dictionary:
 
-Putt : ['PhD ScD', 'Professor', 'mputt@mail.med.upenn.edu']
-Feng : ['PhD', 'Assistant Professor', 'ruifeng@upenn.edu']
-Bilker : ['PhD', 'Professor', 'warren@upenn.edu']
+Putt : ['PhD ScD', 'Professor', 'mputt@mail.med.upenn.edu']  
+Feng : ['PhD', 'Assistant Professor', 'ruifeng@upenn.edu']  
+Bilker : ['PhD', 'Professor', 'warren@upenn.edu']  
 
 
 ####Q7.  The previous dictionary does not have the best design for keys.  Create a new dictionary with keys as:
@@ -143,16 +143,16 @@ professor_dict = {('Susan', 'Ellenberg'): ['Ph.D.', 'Professor', 'sellenbe@upenn
 
 Print the first 3 key and value pairs of the dictionary:
 
-('Localio', 'A.') : ['JD MA MPH MS PhD', 'Associate Professor', 'rlocalio@upenn.edu']
-('Stephens', 'Alisa') : ['PhD', 'Assistant Professor', 'alisaste@mail.med.upenn.edu']
-('Troxel', 'Andrea') : ['ScD', 'Professor', 'atroxel@mail.med.upenn.edu']
+('Localio', 'A.') : ['JD MA MPH MS PhD', 'Associate Professor', 'rlocalio@upenn.edu']  
+('Stephens', 'Alisa') : ['PhD', 'Assistant Professor', 'alisaste@mail.med.upenn.edu']  
+('Troxel', 'Andrea') : ['ScD', 'Professor', 'atroxel@mail.med.upenn.edu']  
 
 
 ####Q8.  It looks like the current dictionary is printing by first name.  Sort by last name and print the first 3 key and value pairs.  
 
-('Bellamy', 'Scarlett') : ['ScD', 'Associate Professor', 'bellamys@mail.med.upenn.edu']
-('Bilker', 'Warren') : ['PhD', 'Professor', 'warren@upenn.edu']
-('Bryan', 'Matthew') : ['PhD', 'Assistant Professor', 'bryanma@upenn.edu']
+('Bellamy', 'Scarlett') : ['ScD', 'Associate Professor', 'bellamys@mail.med.upenn.edu']  
+('Bilker', 'Warren') : ['PhD', 'Professor', 'warren@upenn.edu']  
+('Bryan', 'Matthew') : ['PhD', 'Assistant Professor', 'bryanma@upenn.edu']  
 
 Place your code in this file: [advanced_python_dict.py](python/advanced_python_dict.py)
 
