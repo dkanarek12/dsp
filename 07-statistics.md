@@ -81,7 +81,7 @@ Therefore *P(H|D) = 29.41%.*
 ###Q6. Bayesian &amp; Frequentist Comparison  
 How do frequentist and Bayesian statistics compare?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> Frequentist statistics uses information about a set population to determine probabilities. In the above problem, a frequentist may look at the population of twins and count the percent of those twins that are identical. Bayesian statistics relies on probabilities and additonal conditions that affect those probabilities to determine the likelihood of an event occurring. 
 
 ---
 
