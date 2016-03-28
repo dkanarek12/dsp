@@ -101,9 +101,9 @@ The emails.csv file you create should be added and committed to your forked repo
 
 Your file, emails.csv, will look like this:
 ```
-bellamys@mail.med.upenn.edu
-warren@upenn.edu
-bryanma@upenn.edu
+bellamys@mail.med.upenn.edu  
+warren@upenn.edu  
+bryanma@upenn.edu  
 ```
 
 ---
@@ -150,6 +150,7 @@ Print the first 3 key and value pairs of the dictionary:
 
 ####Q8.  It looks like the current dictionary is printing by first name.  Sort by last name and print the first 3 key and value pairs.  
 
+<<<<<<< HEAD
 ('Bellamy', 'Scarlett') : ['ScD', 'Associate Professor', 'bellamys@mail.med.upenn.edu']  
 ('Bilker', 'Warren') : ['PhD', 'Professor', 'warren@upenn.edu']  
 ('Bryan', 'Matthew') : ['PhD', 'Assistant Professor', 'bryanma@upenn.edu']  
