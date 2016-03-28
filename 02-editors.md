@@ -61,7 +61,7 @@ We will also use Jupyter (IPython) notebooks, but this does not remove the need 
 
 What terminal editor will you use? How did you make your decision?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> I chose vim since it is default on many systems and there is a built-in interactive tutorial.
 
 --
 
