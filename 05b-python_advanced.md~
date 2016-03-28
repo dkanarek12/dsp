@@ -143,15 +143,9 @@ professor_dict = {('Susan', 'Ellenberg'): ['Ph.D.', 'Professor', 'sellenbe@upenn
 
 Print the first 3 key and value pairs of the dictionary:
 
-<<<<<<< HEAD
 ('Localio', 'A.') : ['JD MA MPH MS PhD', 'Associate Professor', 'rlocalio@upenn.edu']  
 ('Stephens', 'Alisa') : ['PhD', 'Assistant Professor', 'alisaste@mail.med.upenn.edu']  
 ('Troxel', 'Andrea') : ['ScD', 'Professor', 'atroxel@mail.med.upenn.edu']  
-=======
-"('Localio', 'A.') : ['JD MA MPH MS PhD', 'Associate Professor', 'rlocalio@upenn.edu']"  
-"('Stephens', 'Alisa') : ['PhD', 'Assistant Professor', 'alisaste@mail.med.upenn.edu']"   
-"('Troxel', 'Andrea') : ['ScD', 'Professor', 'atroxel@mail.med.upenn.edu']" 
->>>>>>> c3a88bb06301af5918bc953d4ea35a2b7015dd4e
 
 
 ####Q8.  It looks like the current dictionary is printing by first name.  Sort by last name and print the first 3 key and value pairs.  
@@ -160,11 +154,6 @@ Print the first 3 key and value pairs of the dictionary:
 ('Bellamy', 'Scarlett') : ['ScD', 'Associate Professor', 'bellamys@mail.med.upenn.edu']  
 ('Bilker', 'Warren') : ['PhD', 'Professor', 'warren@upenn.edu']  
 ('Bryan', 'Matthew') : ['PhD', 'Assistant Professor', 'bryanma@upenn.edu']  
-=======
-"('Bellamy', 'Scarlett') : ['ScD', 'Associate Professor', 'bellamys@mail.med.upenn.edu']"     
-"('Bilker', 'Warren') : ['PhD', 'Professor', 'warren@upenn.edu']"  
-"('Bryan', 'Matthew') : ['PhD', 'Assistant Professor', 'bryanma@upenn.edu']"  
->>>>>>> c3a88bb06301af5918bc953d4ea35a2b7015dd4e
 
 Place your code in this file: [advanced_python_dict.py](python/advanced_python_dict.py)
 
