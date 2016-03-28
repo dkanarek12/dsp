@@ -150,7 +150,6 @@ Print the first 3 key and value pairs of the dictionary:
 
 ####Q8.  It looks like the current dictionary is printing by first name.  Sort by last name and print the first 3 key and value pairs.  
 
-<<<<<<< HEAD
 ('Bellamy', 'Scarlett') : ['ScD', 'Associate Professor', 'bellamys@mail.med.upenn.edu']  
 ('Bilker', 'Warren') : ['PhD', 'Professor', 'warren@upenn.edu']  
 ('Bryan', 'Matthew') : ['PhD', 'Assistant Professor', 'bryanma@upenn.edu']  
